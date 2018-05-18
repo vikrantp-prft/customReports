@@ -1,0 +1,1 @@
+ <package id="Sitecore.Kernel.NoReferences" version="8.2.170614" targetFramework="net452" developmentDependency="true" />

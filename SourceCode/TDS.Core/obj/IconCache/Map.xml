@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/client" ItemIcon="/temp/IconCache/Applications/16x16/question_and_answer.png" />
+  <Item ItemPath="/sitecore/client/Applications" ItemIcon="/temp/IconCache/Applications/16x16/window_dialog.png" />
+  <Item ItemPath="/sitecore/client/Applications/ExperienceAnalytics/Common" ItemIcon="/temp/IconCache/Applications/16x16/gear.png" />
+  <Item ItemPath="/sitecore/client/Applications/ExperienceAnalytics/Common/Layouts" ItemIcon="/temp/IconCache/Applications/16x16/windows.png" />
+  <Item ItemPath="/sitecore/client/Applications/ExperienceAnalytics/Common/Layouts/Renderings" ItemIcon="/temp/IconCache/Software/16x16/elements1.png" />
+  <Item ItemPath="/sitecore/client/Applications/ExperienceAnalytics/Dashboard" ItemIcon="/temp/IconCache/OfficeWhite/24x24/presentation_empty.png" />
+  <Item ItemPath="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Table Control Samples" ItemIcon="/temp/IconCache/OfficeWhite/24x24/users5.png" />
+  <Item ItemPath="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Table Control Samples/Basic" ItemIcon="/temp/IconCache/Applications/16x16/document_chart.png" />
+  <Item ItemPath="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Table Control Samples/Parameter" ItemIcon="/temp/IconCache/Applications/16x16/document_chart.png" />
+  <Item ItemPath="/sitecore/client/Applications/ExperienceAnalytics" ItemIcon="/temp/IconCache/Applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/client/Applications/ExperienceAnalytics/Common/Layouts/Renderings/ExperienceAnalyticsTableControl/ExperienceAnalyticsTableControl Parameters/__Standard Values" ItemIcon="/temp/IconCache/Control/16x16/listview_b.png" />
+  <Item ItemPath="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Table Control Samples/Basic/PageSettings" ItemIcon="/temp/IconCache/Applications/16x16/preferences.png" />
+</ItemIconCache>
